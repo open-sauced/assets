@@ -10,7 +10,7 @@ This repository contains for assets and logos associated with the [Open Sauced](
 - Use the Open Sauced logo to advertise that your product has built-in Open Sauced integration
 - Use the Open Sauced logo in a blog post or news article about Open Sauced
 
-##Please don’t do these things
+## Please don’t do these things
 - Use the Open Sauced logo for your application’s icon
 - Integrate the Open Sauced logo into your logo
 - Use any Open Sauced artwork without permission
