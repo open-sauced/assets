@@ -1,6 +1,4 @@
-# Open Sauced Assets
-
-<img style="width: 90px" src="https://github.com/open-sauced/assets/blob/master/opensauced.png">
+<img style="width: 90px" src="https://github.com/open-sauced/assets/blob/master/assets.png">
 
 This repository contains for assets and logos associated with the [Open Sauced](https://opensauced.pizza) project.
 
