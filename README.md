@@ -1,6 +1,6 @@
 ![logo](https://github.com/open-sauced/assets/blob/main/logo.png?raw=true)
 
-This repository contains for assets and logos associated with the [Open Sauced](https://opensauced.pizza) project.
+This repository contains for assets and logos associated with the [Open Sauced](https://opensauced.pizza) project. The brand kit can be found [here](https://opensauced.pizza/press).
 
 ## Do these awesome things
 - Use the Open Sauced logo to link to the Open Sauced project.
